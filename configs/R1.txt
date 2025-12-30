@@ -1,0 +1,7 @@
+interface Fa0/0
+ ip address 192.168.122.29 255.255.255.0
+ no shutdown
+
+interface Fa0/1
+ ip address 192.168.122.2 255.255.255.0
+ no shutdown
